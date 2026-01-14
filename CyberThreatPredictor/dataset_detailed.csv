@@ -1,0 +1,102 @@
+text,label
+"Your account has been compromised. Click the link below to verify your details and secure your account immediately.",Phishing
+"We've detected unusual activity on your network. Please check the attached report and take action to prevent further issues.",DDoS
+"A critical vulnerability has been found in the latest version of our software. Please update immediately to protect against unauthorized access.",Zero-day Exploit
+"SQL error: Incorrect syntax near 'SELECT * FROM users WHERE username=''admin''; --'. Potential security risk detected.",SQL Injection
+"Your system is infected with malware disguised as a system optimizer. Immediate action required to avoid data loss.",Malware
+"Dear employee, I need your help with a confidential project. Please send me the login credentials for our shared drive as soon as possible.",Social Engineering
+"Important files on your system have been encrypted. To regain access, send 1 Bitcoin to the wallet address provided.",Ransomware
+"Urgent: Verify your email address to avoid account suspension. Follow the link and enter your credentials to confirm.",Phishing
+"Our website is currently experiencing a large-scale attack that may affect service availability. We are working to resolve the issue.",DDoS
+"An attacker has exploited a vulnerability in our system to gain unauthorized access. Please patch the system using the provided update.",Zero-day Exploit
+"Database query error: 'INSERT INTO users (username, password) VALUES (''admin'', ''password''); --'. Possible SQL Injection attack detected.",SQL Injection
+"A malicious file was detected in your downloads folder. It appears to be ransomware, and immediate action is necessary.",Malware
+"Hi, I'm with IT support. We've detected suspicious activity on your account. Please provide your login information so we can secure your account.",Social Engineering
+"Your data has been encrypted by ransomware. Pay the ransom using the instructions in the attachment to retrieve your files.",Ransomware
+"Click here to update your security settings or your account may be locked. Enter your personal details to complete the update.",Phishing
+"Our servers are overwhelmed with excessive requests. We suspect a coordinated DDoS attack and are working to mitigate the impact.",DDoS
+"A new exploit allows unauthorized users to access administrative functions. Ensure your systems are updated to prevent exploitation.",Zero-day Exploit
+"SQL injection detected: 'SELECT * FROM orders WHERE product_id=''1234''; --'. Review your database security settings.",SQL Injection
+"Malware disguised as a PDF reader is spreading rapidly. It installs itself secretly and compromises system security.",Malware
+"Urgent request from company management: Send me the confidential financial report urgently. I need it for an important meeting.",Social Engineering
+"Ransomware has encrypted all your important files. To decrypt them, you need to pay the ransom to the Bitcoin address provided.",Ransomware
+"Your account security is at risk. Please follow this link to confirm your identity and protect your account from unauthorized access.",Phishing
+"Continuous traffic flood detected. The server is down due to a potential DDoS attack. We are working on restoring normal operations.",DDoS
+"A critical vulnerability has been found in our application allowing remote code execution. Apply the latest security patch immediately.",Zero-day Exploit
+"SQL command injection detected in user input field: 'SELECT * FROM products WHERE category=''electronics''; --'.",SQL Injection
+"Malware posing as a legitimate software update has been detected. It may corrupt your system and steal personal information.",Malware
+"Dear user, there’s been a security issue with your account. Please provide your username and password to verify your identity.",Social Engineering
+"All your files have been encrypted by ransomware. Follow the instructions in the attached document to pay the ransom and decrypt them.",Ransomware
+"Verify your account information by following the link below. Failure to do so may result in account suspension.",Phishing
+"A massive surge in traffic detected on our servers. This could be indicative of a DDoS attack. We are monitoring the situation closely.",DDoS
+"Unauthorized access detected due to a vulnerability in our system. Ensure that you apply the latest security update to protect your data.",Zero-day Exploit
+"Potential SQL Injection attack observed: 'UPDATE users SET password=''newpassword'' WHERE username=''admin''; --'.",SQL Injection
+"Malware detected in a seemingly innocuous email attachment. It’s designed to steal sensitive information from your computer.",Malware
+"Urgent: We need your login credentials to resolve a supposed issue with your account. Failure to comply could lead to account suspension.",Social Engineering
+"Ransomware has encrypted your critical documents. To recover them, you need to pay the specified amount in Bitcoin to the provided address.",Ransomware
+"Important: To avoid account suspension, please follow the link to verify your account information immediately.",Phishing
+"Our network is experiencing a high volume of traffic that is impacting service availability. This may be the result of a DDoS attack.",DDoS
+"A new vulnerability discovered in our system allows unauthorized access. Immediate patching is required to mitigate this risk.",Zero-day Exploit
+"SQL Injection detected: 'SELECT * FROM users WHERE email=''user@example.com''; --'. Possible unauthorized data retrieval.",SQL Injection
+"Malware disguised as a system utility program has been found on your computer. It’s designed to compromise your system’s security.",Malware
+"Your account has been compromised. Please provide your username and password to confirm your identity and prevent further issues.",Social Engineering
+"Ransomware has locked your files. Follow the payment instructions in the attachment to regain access to your data.",Ransomware
+"Verify your account details by clicking this link. Your account may be suspended if you do not complete the verification process.",Phishing
+"Immediate action required: Your account has been flagged for suspicious activity. Click the link to review and secure your account.",Phishing
+"Heavy traffic detected on our network. This might be due to a DDoS attack. Our team is working to restore normal service.",DDoS
+"Critical security flaw discovered in the recent system update. Apply the emergency patch provided to prevent unauthorized access.",Zero-day Exploit
+"SQL Injection vulnerability detected in the login page. Unauthorized access may occur if the issue is not resolved immediately.",SQL Injection
+"Malicious software identified as an unauthorized program on your device. It’s designed to steal personal data without your knowledge.",Malware
+"Urgent: We need your assistance with an internal audit. Send your login credentials to verify your identity for security reasons.",Social Engineering
+"Ransomware alert: Your files are encrypted. To regain access, transfer the required payment to the specified cryptocurrency wallet.",Ransomware
+"Your account has been compromised. Click here to verify your identity and prevent further unauthorized access.",Phishing
+"Unusual traffic patterns suggest a potential DDoS attack on our servers. We are actively investigating and mitigating the issue.",DDoS
+"New exploit discovered: Attackers can now bypass authentication on our platform. Immediate patch required to secure systems.",Zero-day Exploit
+"SQL Injection attempt detected: 'SELECT * FROM users WHERE user_id=''1''; --'. Review and sanitize user inputs to prevent this attack.",SQL Injection
+"A dangerous trojan horse has been installed on your computer. It’s designed to compromise your system's integrity.",Malware
+"Your system administrator requires your credentials for an urgent security check. Please send your username and password to the provided email.",Social Engineering
+"Ransomware has locked your files. To unlock them, you must pay the ransom as outlined in the attached document.",Ransomware
+"Security warning: Verify your account information immediately by following the link provided. Failure to do so may result in account suspension.",Phishing
+"Our servers are experiencing an unusually high volume of requests, potentially due to a DDoS attack. We are addressing the issue.",DDoS
+"Exploit discovered: A vulnerability in our application could allow unauthorized access. Ensure that you update your software to mitigate this risk.",Zero-day Exploit
+"SQL Injection detected in user input: 'DELETE FROM users WHERE username=''admin''; --'. Check and secure database interactions.",SQL Injection
+"Your antivirus has flagged a new malware threat that is designed to exploit system vulnerabilities. Immediate removal is recommended.",Malware
+"Request from HR: Send your login credentials to confirm your employment status for our records. Failure to comply may result in issues.",Social Engineering
+"All your files have been encrypted. To decrypt them, follow the instructions in the attachment and pay the required amount in cryptocurrency.",Ransomware
+"Account alert: Click this link to confirm your details and prevent unauthorized access to your account.",Phishing
+"Service disruption detected due to a possible DDoS attack. We are working on restoring services as quickly as possible.",DDoS
+"New security vulnerability discovered in our system. Please apply the latest update to avoid unauthorized access and data breaches.",Zero-day Exploit
+"Possible SQL Injection attack: 'SELECT * FROM products WHERE price=''0''; --'. Review and update security measures.",SQL Injection
+"Malware posing as a system update has been detected on your computer. It could potentially damage your files and steal sensitive information.",Malware
+"Critical: An internal audit requires your login credentials. Please send them to verify your account and avoid any issues.",Social Engineering
+"Ransomware has encrypted your documents. Follow the instructions in the attached file to make the payment and restore your files.",Ransomware
+"Action required: Verify your account information by following this link. Your account might be suspended if you do not act promptly.",Phishing
+"Urgent: We detected unusual login activity from an unknown device. Please confirm your identity using the link provided.",Phishing
+"Alert: Our network is under attack from multiple sources. Service may be disrupted temporarily while we mitigate the DDoS.",DDoS
+"Immediate update required: A zero-day vulnerability has been identified in our system. Apply the patch attached to this message.",Zero-day Exploit
+"SQL Injection attempt detected: 'SELECT * FROM orders WHERE order_id='' OR '1'='1'; --'. Please review and strengthen database queries.",SQL Injection
+"Warning: A dangerous piece of malware has been found on your system. It’s designed to collect sensitive information without your consent.",Malware
+"Critical: We need your help to verify some recent transactions. Send your account details to our support team to ensure your account's safety.",Social Engineering
+"Your files have been locked by ransomware. To regain access, make the payment as instructed in the attached document.",Ransomware
+"Security alert: Click the link to verify your account details to prevent suspension. Failure to verify may lead to account lockout.",Phishing
+"Denial of Service attack detected: Our servers are experiencing unusually high traffic. We are working to mitigate the issue and restore service.",DDoS
+"Zero-day exploit alert: A recent security vulnerability has been discovered. Install the emergency update provided to protect your system.",Zero-day Exploit
+"SQL Injection detected in user input: 'UPDATE users SET password=''1234'' WHERE username=''admin''; --'. Secure your SQL queries to prevent attacks.",SQL Injection
+"Trojan malware identified on your device. It’s designed to spy on your activities and exfiltrate personal data. Immediate removal required.",Malware
+"Internal request: Confirm your identity by sending your username and password to avoid issues with your account status.",Social Engineering
+"Ransomware alert: Your important files have been encrypted. Follow the instructions in the attached ransom note to restore your data.",Ransomware
+"Urgent action needed: Verify your account by following this link. Failure to do so could result in account suspension.",Phishing
+"Service disruption warning: Our system is currently under a DDoS attack. We are implementing measures to restore normal operation.",DDoS
+"Critical vulnerability discovered: Apply the security patch immediately to address a zero-day exploit identified in our recent software update.",Zero-day Exploit
+"SQL Injection vulnerability detected: 'SELECT * FROM users WHERE status=''active''; --'. Review and sanitize input fields to avoid data breaches.",SQL Injection
+"Malware detected: A new form of spyware has been installed on your device. It’s designed to collect confidential information. Remove it immediately.",Malware
+"Important notice: Your account has been flagged for review. Send your credentials to confirm your identity and avoid account issues.",Social Engineering
+"Ransomware has encrypted your files. Make the required payment as outlined in the attached ransom note to regain access to your data.",Ransomware
+"Security warning: Click here to verify your account details. Failure to act promptly may result in a temporary suspension of your account.",Phishing
+"System under attack: A massive influx of requests indicates a potential DDoS. We are taking steps to mitigate and restore normal service.",DDoS
+"Urgent update: A zero-day exploit has been found. Apply the provided patch to secure your system from this vulnerability.",Zero-day Exploit
+"SQL Injection attempt detected: 'SELECT * FROM users WHERE username=''admin'' AND password=''password''; --'. Ensure proper input validation.",SQL Injection
+"Your antivirus has detected malware designed to access and misuse personal data. Immediate removal and system scan required.",Malware
+"Request for verification: Please send your login credentials to validate your recent account activity and prevent any potential issues.",Social Engineering
+"Ransomware notice: Your files are locked and can only be decrypted by paying the ransom mentioned in the attached document.",Ransomware
+"Important: Verify your account details by clicking this link. Failure to verify may lead to a temporary lock on your account.",Phishing

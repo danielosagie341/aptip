@@ -1,0 +1,312 @@
+text,label
+"Phishing email received claiming to be from bank asking for account details",1
+"Malware detected on employee workstation",1
+"SQL Injection attempt identified on login page",1
+"Ransomware attack reported in the finance department",1
+"Social engineering scam targeting employees with fake IT support requests",1
+"DDoS attack detected affecting server performance",1
+"Zero-day exploit vulnerability discovered in application",1
+"Routine system update completed successfully",0
+"Reminder: Monthly team meeting scheduled",0
+"Successful login from authorized device",0
+"Employee request for hardware upgrade approved",0
+"System performance optimization completed",0
+"New software update available for installation",0
+"Standard update on IT support tickets",0
+"Network security policies revised and applied",0
+"Routine health check of server hardware",0
+"Data encryption process completed",0
+"Scheduled maintenance for database system",0
+"Standard report on cybersecurity training for staff",0
+"Routine backup of system files completed",0
+"Successful antivirus definitions update",0
+"Employee password reset request processed",0
+"New user account creation notification",0
+"System log showing normal activity",0
+"Security audit report for the quarter",0
+"Update: Security patch applied to all systems",0
+"Routine check of firewall logs",0
+"Social engineering scam report from the marketing department",1
+"Unusual login activity from unknown IP address",1
+"Phishing link detected in incoming email",1
+"Alert: Malware detected in file transfer",1
+"SQL Injection vulnerability found in web application",1
+"DDoS attack mitigation in progress",1
+"Ransomware warning received from external source",1
+"Zero-day exploit identified in new software update",1
+"Employee training session on phishing attacks completed",0
+"Update on new IT support policies",0
+"Successful completion of system health checks",0
+"Security policy revision document updated",0
+"Phishing email pretending to be from IT support requesting credentials",1
+"Malware infection detected in recent download",1
+"SQL Injection attack observed in user input fields",1
+"Ransomware encrypted files on multiple systems",1
+"Social engineering scam involving fake CEO emails",1
+"DDoS attack causing service outage",1
+"Zero-day exploit used in recent security breach",1
+"Routine software patch applied to improve performance",0
+"Reminder: Quarterly financial review meeting",0
+"Authorized access to server logs",0
+"Employee benefit enrollment confirmation",0
+"System performance report indicating normal operation",0
+"Scheduled upgrade for network infrastructure",0
+"Update: Antivirus software database refreshed",0
+"Standard employee onboarding process",0
+"Routine system monitoring shows no issues",0
+"Internal memo about upcoming team-building event",0
+"System health report indicates all systems are operational",0
+"New IT policies document circulated",0
+"Database maintenance completed without issues",0
+"Employee request for software installation approved",0
+"Security training session attendance report",0
+"Social engineering scam targeting senior management with fake investment opportunities",1
+"Malware detected in email attachment and quarantined",1
+"SQL Injection vulnerability fixed in web application code",1
+"DDoS attack mitigated by traffic filtering",1
+"Ransomware alert with instructions for recovery",1
+"Phishing attempt detected in spam filter",1
+"Zero-day exploit discovered in third-party plugin",1
+"Social engineering scam involving fake job offers",1
+"Successful mitigation of DDoS attack through cloud services",1
+"Phishing email with malicious link blocked by security gateway",1
+"Malware signature update for antivirus software applied",1
+"Zero-day exploit patched in latest software update",1
+"SQL Injection attack detected and neutralized",1
+"Ransomware attack successfully contained and recovered",1
+"Social engineering phishing scheme reported by multiple employees",1
+"Routine update of system security policies completed",0
+"Monthly report on system uptime and performance",0
+"New hardware installation and configuration completed",0
+"Security compliance audit conducted with no issues",0
+"Employee password change notification",0
+"Update on IT department staffing changes",0
+"Routine data backup and recovery test completed",0
+"System log review indicates no suspicious activity",0
+"Employee access request for new software approved",0
+"Routine security patch deployment scheduled",0
+"Phishing message pretending to be from HR asking for personal information",1
+"Malware detected in a downloaded PDF file",1
+"SQL Injection vulnerability exploited in the login system",1
+"Ransomware encrypted critical company files",1
+"Social engineering attack involving fake tech support calls",1
+"DDoS attack causing website downtime",1
+"Zero-day exploit used to breach sensitive data",1
+"System performance report showing normal metrics",0
+"Monthly team meeting agenda and notes",0
+"Scheduled software update for improved security",0
+"Routine email about upcoming office event",0
+"Employee request for leave approval",0
+"System configuration change notification",0
+"Standard system health check results",0
+"Network performance optimization completed",0
+"Routine IT maintenance window scheduled",0
+"Data encryption status report",0
+"Successful completion of server migration",0
+"Update on IT project deadlines",0
+"System log review indicating no issues",0
+"Phishing email claiming to be from a trusted partner requesting credentials",1
+"Malware detected in a suspicious email attachment",1
+"SQL Injection attack observed on the customer portal",1
+"DDoS attack detected and mitigated by cloud service",1
+"Ransomware alert with recovery instructions sent to IT team",1
+"Zero-day exploit reported in recent security advisory",1
+"Social engineering scam involving fake job interview requests",1
+"Phishing attempt blocked by email security filters",1
+"Malware infection in newly installed software",1
+"SQL Injection vulnerability discovered in backend API",1
+"DDoS attack caused network congestion and slowdowns",1
+"Ransomware encryption detected on shared drives",1
+"Zero-day exploit patched in emergency update",1
+"Social engineering attack with fake email from CEO asking for financial details",1
+"Routine data integrity check completed successfully",0
+"Monthly IT support ticket summary report",0
+"New system feature announcement for internal use",0
+"Update on recent IT policy changes",0
+"Employee account activation and setup notification",0
+"Routine firewall configuration review",0
+"Data backup and restoration test successful",0
+"Scheduled update to network security protocols",0
+"Standard report on system usage and performance",0
+"Employee training session on recognizing phishing emails completed",0
+"Phishing email with fake login page link detected",1
+"Malware detected in system scan and quarantined",1
+"SQL Injection attack identified in customer feedback form",1
+"DDoS attack causing intermittent access issues",1
+"Ransomware incident response and recovery plan initiated",1
+"Zero-day exploit discovered in recent software patch",1
+"Social engineering scam targeting executives with fake legal threats",1
+"Phishing email with urgent action request identified and reported",1
+"Malware outbreak contained with updated antivirus definitions",1
+"SQL Injection attack neutralized with updated input validation",1
+"DDoS attack mitigated by network traffic filtering",1
+"Ransomware encryption halted with incident response measures",1
+"Zero-day exploit patched in latest security update",1
+"Social engineering scam involving fake account verification requests",1
+"Routine security audit report with no critical findings",0
+"System configuration backup completed",0
+"IT department announcement about upcoming changes",0
+"Employee feedback on IT support services collected",0
+"Standard network security policy review completed",0
+"Monthly review of cybersecurity incident responses",0
+"System health check and performance optimization finished",0
+"Unauthorized access attempt detected on server X",1
+"Unusual login activity from IP address 192.168.1.1",1
+"Routine system maintenance scheduled for tomorrow",0
+"New software update available for installation",0
+"Suspicious email received with phishing link",1
+"System performance optimization completed successfully",0
+"Malware detected on user workstation",1
+"New user account created in the system",0
+"Failed login attempts from unknown IP address",1
+"Monthly backup of database completed",0
+"Potential data breach reported in department Y",1
+"Employee request for hardware upgrade processed",0
+"Virus scan completed with no threats found",0
+"Suspicious activity detected in network traffic",1
+"Scheduled downtime for server maintenance",0
+"Unusual file access patterns observed",1
+"Update on cybersecurity training for staff",0
+"New security patch applied to all systems",0
+"Unauthorized external device connected to network",1
+"Routine health check of server hardware",0
+"Potential threat detected in email attachment",1
+"System performance metrics for the past week",0
+"Anomalies in user behavior logs identified",1
+"Standard update on IT support tickets",0
+"Intrusion detection system alert triggered",1
+"System configuration changes applied successfully",0
+"Unusual outbound traffic detected",1
+"Security audit report for the quarter",0
+"New antivirus definitions downloaded and applied",0
+"Alert: Potential SQL injection attack detected",1
+"Successful login from authorized device",0
+"Update: Network security policies revised",0
+"Phishing attempt blocked by email filter",1
+"Routine security patching and updates performed",0
+"Data encryption process completed",0
+"Alert: Suspicious login from overseas",1
+"System health and performance report generated",0
+"Unauthorized access to sensitive files detected",1
+"Phishing message pretending to be from HR asking for personal information",1
+"Malware detected in a downloaded PDF file",1
+"SQL Injection vulnerability exploited in the login system",1
+"Ransomware encrypted critical company files",1
+"Social engineering attack involving fake tech support calls",1
+"DDoS attack causing website downtime",1
+"Zero-day exploit used to breach sensitive data",1
+"System performance report showing normal metrics",0
+"Monthly team meeting agenda and notes",0
+"Scheduled software update for improved security",0
+"Routine email about upcoming office event",0
+"Employee request for leave approval",0
+"System configuration change notification",0
+"Standard system health check results",0
+"Network performance optimization completed",0
+"Routine IT maintenance window scheduled",0
+"Data encryption status report",0
+"Successful completion of server migration",0
+"Update on IT project deadlines",0
+"System log review indicating no issues",0
+"Phishing email claiming to be from a trusted partner requesting credentials",1
+"Malware detected in a suspicious email attachment",1
+"SQL Injection attack observed on the customer portal",1
+"DDoS attack detected and mitigated by cloud service",1
+"Ransomware alert with recovery instructions sent to IT team",1
+"Zero-day exploit reported in recent security advisory",1
+"Social engineering scam involving fake job interview requests",1
+"Phishing attempt blocked by email security filters",1
+"Malware infection in newly installed software",1
+"SQL Injection vulnerability discovered in backend API",1
+"DDoS attack caused network congestion and slowdowns",1
+"Ransomware encryption detected on shared drives",1
+"Zero-day exploit patched in emergency update",1
+"Social engineering attack with fake email from CEO asking for financial details",1
+"Routine data integrity check completed successfully",0
+"Monthly IT support ticket summary report",0
+"New system feature announcement for internal use",0
+"Update on recent IT policy changes",0
+"Employee account activation and setup notification",0
+"Routine firewall configuration review",0
+"Data backup and restoration test successful",0
+"Scheduled update to network security protocols",0
+"Standard report on system usage and performance",0
+"Employee training session on recognizing phishing emails completed",0
+"Phishing email with fake login page link detected",1
+"Malware detected in system scan and quarantined",1
+"SQL Injection attack identified in customer feedback form",1
+"DDoS attack causing intermittent access issues",1
+"Ransomware incident response and recovery plan initiated",1
+"Zero-day exploit discovered in recent software patch",1
+"Social engineering scam targeting executives with fake legal threats",1
+"Phishing email with urgent action request identified and reported",1
+"Malware outbreak contained with updated antivirus definitions",1
+"SQL Injection attack neutralized with updated input validation",1
+"DDoS attack mitigated by network traffic filtering",1
+"Ransomware encryption halted with incident response measures",1
+"Zero-day exploit patched in latest security update",1
+"Social engineering scam involving fake account verification requests",1
+"Routine security audit report with no critical findings",0
+"System configuration backup completed",0
+"IT department announcement about upcoming changes",0
+"Employee feedback on IT support services collected",0
+"Standard network security policy review completed",0
+"Monthly review of cybersecurity incident responses",0
+"System health check and performance optimization finished",0
+"Phishing attempt asking to confirm login credentials through a fraudulent portal",1
+"Scam message pretending to be from IT requesting immediate password reset",1
+"Email impersonating a trusted source asking for login information for account verification",1
+"IT department announcement about upcoming changes",0
+"Employee feedback on IT support services collected",0
+"Standard network security policy review completed",0
+"Monthly review of cybersecurity incident responses",0
+"System health check and performance optimization finished",0
+"URGENT: Your account has been compromised. Please provide your login credentials to secure your account.",1
+"ALERT: Suspicious activity detected. Click the link to verify your account and avoid suspension.",1
+"IMPORTANT: We need to verify your identity. Reply with your username and password to continue.",1
+"NOTICE: Your account will be locked if you do not update your details. Provide your login information to avoid issues.",1
+"Dear User, your account has been flagged. To resolve this, enter your username and password immediately.",1
+"WARNING: Unusual login detected. Click here to confirm your identity and prevent account lockout.",1
+"FINAL NOTICE: Immediate action required. Provide your account details to prevent a security breach.",1
+"ALERT: Your account has been temporarily suspended. Send us your login credentials to restore access.",1
+"URGENT: Security update required. Please reply with your login credentials to complete the verification.",1
+"NOTICE: We have detected a potential security issue. Confirm your login details to ensure account safety.",1
+"URGENT: Your account has been compromised. Please provide your login credentials to secure your account.",1
+"ALERT: Suspicious activity detected. Click the link to verify your account and avoid suspension.",1
+"IMPORTANT: We need to verify your identity. Reply with your username and password to continue.",1
+"NOTICE: Your account will be locked if you do not update your details. Provide your login information to avoid issues.",1
+"Dear User, your account has been flagged. To resolve this, enter your username and password immediately.",1
+"WARNING: Unusual login detected. Click here to confirm your identity and prevent account lockout.",1
+"FINAL NOTICE: Immediate action required. Provide your account details to prevent a security breach.",1
+"ALERT: Your account has been temporarily suspended. Send us your login credentials to restore access.",1
+"URGENT: Security update required. Please reply with your login credentials to complete the verification.",1
+"NOTICE: We have detected a potential security issue. Confirm your login details to ensure account safety.",1
+"ALERT: Unauthorized login attempt detected. Please verify your identity by providing your credentials.",1
+"URGENT: To prevent account suspension, provide your username and password immediately.",1
+"IMPORTANT: We noticed unusual activity. Confirm your details by replying to this message.",1
+"NOTICE: Your account is at risk. Please update your login credentials to secure your account.",1
+"WARNING: Immediate verification needed. Reply with your account information to avoid issues.",1
+"FINAL WARNING: Failure to update your details will result in account suspension. Provide your login info now.",1
+"ALERT: Action required! Confirm your account by providing your username and password.",1
+"URGENT: Security issue detected. Please provide your login credentials to secure your account.",1
+"IMPORTANT NOTICE: Your account is compromised. Verify your credentials to restore access.",1
+"WARNING: To prevent account closure, provide your login information immediately.",1
+"Your account balance has been updated. Visit your online banking to view the details.",0
+"Reminder: Your subscription is due for renewal next week. Please check your account for payment options.",0
+"New feature alert: We’ve added a new tool to your account. Log in to explore the updates.",0
+"Account security update: We've added new security features to enhance your account protection.",0
+"Monthly billing statement available. Check your account for the latest statement details.",0
+"Your profile has been updated successfully. No further action is required at this time.",0
+"Reminder: Upcoming system maintenance scheduled for this weekend. Expect some downtime.",0
+"Your password has been successfully changed. If you did not request this change, please contact support.",0
+"Notice: Your account settings have been updated. Review the changes in your account dashboard.",0
+"Alert: New login from a recognized device. If this was not you, please secure your account.",0
+"Update: We have added two-factor authentication to your account. Check your settings for details.",0
+"Confirmation: Your email address has been updated. Visit your account settings to verify the change.",0
+"Reminder: Your account is due for a routine review. Check your dashboard for any required actions.",0
+"Notification: Your recent payment has been processed successfully. View your transaction history for details.",0
+"Update: Your security settings have been enhanced. Review the changes in your account profile.",0
+"Reminder: Your account activity report is ready. Log in to view your recent transactions.",0
+"Notice: Your account has been flagged for a routine security check. No action required from you.",0
+"Alert: We have updated our privacy policy. Please review the changes on our website.",0
+"Confirmation: Your request to deactivate account notifications has been processed.",0
