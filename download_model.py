@@ -7,7 +7,7 @@ MODEL_DIR_SPAM = "saved_model"
 MODEL_DIR_DETAILED = "saved_model_detailed"
 
 MODEL_FILE_SPAM = os.path.join(MODEL_DIR_SPAM, "model.safetensors")
-MODEL_FILE_DETAILED = os.path.join(MODEL_DIR_DETAILED, "model(1).safetensors")
+MODEL_FILE_DETAILED = os.path.join(MODEL_DIR_DETAILED, "model.safetensors")
 
 # Google Drive file IDs
 GOOGLE_DRIVE_FILE_ID_SPAM = "1_MoB6U7VTnw4xre-RtTOowedar7mHhlB"
