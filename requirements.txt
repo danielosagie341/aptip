@@ -1,6 +1,3 @@
-
-gunicorn
-gdown
 flask
 flask-cors
 gunicorn
