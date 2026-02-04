@@ -51,8 +51,8 @@ def fetch_ibm_data(params=None):
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Load pre-trained models and tokenizers using absolute paths
-model_path_spam = os.path.join(script_dir, 'CyberThreatPredictor', 'saved_model')
-model_path_detailed = os.path.join(script_dir, 'CyberThreatPredictor', 'saved_model_detailed')
+model_path_spam = os.path.join(script_dir, 'saved_model')
+model_path_detailed = os.path.join(script_dir, 'saved_model_detailed')
 
 tokenizer_spam = DistilBertTokenizerFast.from_pretrained(model_path_spam)
 model_spam = DistilBertForSequenceClassification.from_pretrained(model_path_spam, num_labels=2)
