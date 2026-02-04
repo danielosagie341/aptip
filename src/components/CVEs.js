@@ -24,9 +24,15 @@ function CVEs() {
     }
 
     setIsLoading(true);
+    
+// LOGIC: Use localhost:5001 for dev, or your live Python backend for prod
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    const API_URL = isLocal 
+      ? 'http://localhost:5001' 
+      : 'https://aptip.onrender.com';
 
     try {
-      const response = await fetch(`http://localhost:5001/api/cves?startDate=${startDate}&endDate=${endDate}`);
+      const response = await fetch(`${API_URL}/api/cves?startDate=${startDate}&endDate=${endDate}`);
 
       if (!response.ok) {
         const errorData = await response.json();

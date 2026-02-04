@@ -13,8 +13,17 @@ function IPCheck() {
     setError(null);
     setIpDetails(null);
 
+    // LOGIC: If we are running on localhost, look for Node on 5000. 
+    // If we are online (Render), look for the Node service at your NEW Render URL.
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    
+    // REPLACE 'https://aptip-node.onrender.com' with the actual URL from your new Render service
+    const API_URL = isLocal 
+      ? 'http://localhost:5000' 
+      : 'https://aptip-node.onrender.com'; 
+
     try {
-      const response = await fetch('http://localhost:5000/check-ip', {
+      const response = await fetch(`${API_URL}/check-ip`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -16,8 +16,15 @@ function ThreatAnalysis() {
     setError(null);
     setPrediction(null);
 
+    // LOGIC: If we are running on localhost, look for Python on 5001. 
+    // If we are online (Render), look for the Python service at your Render URL.
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    const API_URL = isLocal 
+      ? 'http://localhost:5001' 
+      : 'https://aptip.onrender.com';
+
     try {
-      const response = await fetch('http://localhost:5001/predict_detailed', {
+      const response = await fetch(`${API_URL}/predict_detailed`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
