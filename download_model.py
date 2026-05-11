@@ -10,8 +10,8 @@ MODEL_FILE_SPAM = os.path.join(MODEL_DIR_SPAM, "model.safetensors")
 MODEL_FILE_DETAILED = os.path.join(MODEL_DIR_DETAILED, "model.safetensors")
 
 # Google Drive file IDs
-GOOGLE_DRIVE_FILE_ID_SPAM = "1_MoB6U7VTnw4xre-RtTOowedar7mHhlB"
-GOOGLE_DRIVE_FILE_ID_DETAILED = "1vJiIg4Rvmq0kqeI8p4Nl3nEg25lMpvAk"
+GOOGLE_DRIVE_FILE_ID_SPAM = "1_UMb0kV476l09zjvB3ArYK3PaHBG8S_E"
+GOOGLE_DRIVE_FILE_ID_DETAILED = "1_oI40IObYU6QgQek0rFWdopkh9AhuX13"
 
 def download_model(file_id, output_path, model_name):
     """Download model from Google Drive if it doesn't exist locally"""
